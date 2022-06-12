@@ -93,5 +93,5 @@ void botMain::processUserInput(string input) {
 }; 
 
 void botMain::commandPurpose(string input) {
-    
+    cout << "This is not a right massage" << endl; 
 }; 
